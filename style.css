@@ -1,0 +1,171 @@
+
+
+.letterTop{
+    color: white;
+}
+
+#img-one{
+    float: left;
+    padding: 10px;
+}
+#img-icon{
+    height:15px; 
+    padding: 2px;
+}
+
+#img-icon-top{
+    height:13px; 
+    padding: 2px;
+}
+
+#up-part{
+    background-color: #01887A;
+  }
+
+#up-part-down{
+    background-color: #F9F9F9;
+  }
+
+#central-zone{
+    column-count: 2;
+    height: 400px;
+    column-gap: 50px;
+}
+
+#down-zone{
+    background-color: #F9F9F9;
+}
+
+#column-one{
+    float: left;
+    padding-right: 50px;
+   
+}
+#column-two{
+    float: left;
+    width: 33%;
+   
+}
+
+#column-three{
+    float: left;
+    width: 33%;
+   height: 120px;
+}
+
+.letter-central{
+    color: #01887A;
+}
+p{
+    font-size: 13px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 90%;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 black;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#right{
+    float: right;
+    
+}
+#pro {
+    width: 100%;
+    height: 30px;
+    background-color: grey;
+    
+  }
+
+  #barHTML5 {
+    width: 40%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+
+
+  #barCSS {
+    width: 40%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+
+  #barJS {
+    width: 40%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+
+
+  #barVue {
+    width: 15%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+
+  #barJava {
+    width: 85%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+  #barPython {
+    width: 70%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+  #barCplusplus {
+    width: 65%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+  #barCsharp {
+    width: 80%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+
+  #barSQL {
+    width: 70%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+  #barGit {
+    width: 80%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+
+  #barSCRUM {
+    width: 80%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
+  #barSpring {
+    width: 70%;
+    height: 30px;
+    background-color: #4CAF50;
+    
+  }
